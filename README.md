@@ -1,3 +1,5 @@
+**NOTE, THIS IS BUILT DIRECTLY IN ROSIDL NOW**
+
 # Zig package for rosidl_typesupport
 
 This provides a zig package for the rosidl_typesupport project.
